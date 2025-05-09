@@ -4,7 +4,7 @@
 
 Access the live Power BI dashboard here 
 
-https://app.powerbi.com/view?r=eyJrIjoiOWFmNTZjOGUtMmJhNS00ZjY0LTk4MGMtZTVlOTlkM2VkZGFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+https://app.powerbi.com/view?r=eyJrIjoiZTViMTZjZTktZGZmYy00MWU5LTg4ZjMtZWE3MDQ3YTY4YmZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ## Project Overview
 This project involves the development of an **end-to-end Healthcare Dashboard** using **Power BI**. 
